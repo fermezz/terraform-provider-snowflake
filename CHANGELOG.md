@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.31.0](https://github.com/chanzuckerberg/terraform-provider-snowflake/compare/v0.30.0...v0.31.0) (2022-04-08)
+
+
+### Features
+
+* Add manage support cases account grants ([#961](https://github.com/chanzuckerberg/terraform-provider-snowflake/issues/961)) ([1d1084d](https://github.com/chanzuckerberg/terraform-provider-snowflake/commit/1d1084de4d3cef4f76df681812656dd87afb64df))
+
 ## [0.30.0](https://github.com/chanzuckerberg/terraform-provider-snowflake/compare/v0.29.0...v0.30.0) (2022-03-29)
 
 
